@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item android:title="메뉴">
+        <menu>
+
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_board"
+                android:icon="@drawable/ic_public_black_24dp"
+                android:title="커뮤니티" />
+            <item
+                android:id="@+id/nav_calendar"
+                android:icon="@drawable/ic_schedule_black_24dp"
+                android:title="학사일정" />
+            <item
+                android:id="@+id/nav_table"
+                android:icon="@drawable/ic_directions_bus_black_24dp"
+                android:title="통학 버스" />
+            <item
+                android:id="@+id/nav_menu"
+                android:checkable="false"
+                android:icon="@drawable/ic_restaurant_black_24dp"
+                android:title="식단표" />
+            <item
+                android:id="@+id/nav_samcheok"
+                android:title="      삼척 캠퍼스"/>
+            <item
+                android:id="@+id/nav_dogye"
+                android:title="      도계 캠퍼스"/>
+        </group>
+         </menu>
+    </item>
+
+    <item android:title="설정">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/setting"
+                android:title="설정" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

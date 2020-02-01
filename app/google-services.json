@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "305379447435",
+    "firebase_url": "https://kangwonapp.firebaseio.com",
+    "project_id": "kangwonapp",
+    "storage_bucket": "kangwonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305379447435:android:88b94fe40041315b",
+        "android_client_info": {
+          "package_name": "com.jseaproject.jseaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305379447435-pa2rhnq4p5k347r9nbq9la7r5gfslc0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsra6rQPv-3J1W-Yhj5I_db2IGnFfU3Jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305379447435:android:ddc596ef765819c5",
+        "android_client_info": {
+          "package_name": "com.jesaproject.jseaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305379447435-pa2rhnq4p5k347r9nbq9la7r5gfslc0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsra6rQPv-3J1W-Yhj5I_db2IGnFfU3Jc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

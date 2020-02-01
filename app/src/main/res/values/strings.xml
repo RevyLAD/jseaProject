@@ -1,0 +1,244 @@
+<resources>
+    <string name="app_name">강원대학교 학사정보 커뮤니티</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="month_1">
+        <item>01.04~01.08</item>
+        <item>01.12</item>
+        <item>01.16~01.19</item>
+        <item>01.18</item>
+        <item>01.24</item>
+    </string-array>
+
+    <string-array name="content_1">
+        <item>2학기 확정 전 성적 공개</item>
+        <item>2학기 성적확정</item>
+        <item>계절학기 수업평가</item>
+        <item>계절수업 종강</item>
+        <item>계절학기 성적 확정</item>
+    </string-array>
+
+
+    <string-array name="month_2">
+        <item>02.01~02.28</item>
+        <item>02.06~02.07</item>
+        <item>02.13~02.14</item>
+        <item>02.20~02.23</item>
+        <item>02.21~02.23</item>
+        <item>02.21</item>
+        <item>02.27</item>
+    </string-array>
+
+    <string-array name="content_2">
+        <item>휴·복학 신청</item>
+        <item>1학기 예비수강 신청</item>
+        <item>신입생 수강신청</item>
+        <item>등록금 납부기간</item>
+        <item>1학기 수강신청</item>
+        <item>학위수여식</item>
+        <item>입학식</item>
+    </string-array>
+
+
+    <string-array name="month_3">
+        <item>03.02</item>
+        <item>03.06~03.08</item>
+        <item>03.16</item>
+    </string-array>
+
+    <string-array name="content_3">
+        <item>1학기 개강</item>
+        <item>1학기 수강신청 변경</item>
+        <item>외국어 시험</item>
+    </string-array>
+
+    <string-array name="month_4">
+        <item>04.16~04.30</item>
+        <item>04.26</item>
+    </string-array>
+
+    <string-array name="content_4">
+        <item>석사학위청구논문심사 신청</item>
+        <item>중간시험 종료일</item>
+    </string-array>
+
+    <string-array name="month_5">
+        <item>05.08~05.10</item>
+        <item>05.15~05.17</item>
+        <item>05.23~05.29</item>
+    </string-array>
+
+    <string-array name="content_5">
+        <item>계절학기 수강신청</item>
+        <item>학술문화체육행사</item>
+        <item>계절학기 수강료 납부</item>
+    </string-array>
+
+    <string-array name="month_6">
+        <item>06.08~06.22</item>
+        <item>06.14</item>
+        <item>06.15~06.21</item>
+        <item>06.21</item>
+        <item>06.29~07.03</item>
+    </string-array>
+
+    <string-array name="content_6">
+        <item>1학기 수업평가</item>
+        <item>개교기념일</item>
+        <item>강의보충기간</item>
+        <item>종강, 1학기 기말시험 종료일</item>
+        <item>1학기 확정 전 성적 공개</item>
+    </string-array>
+
+    <string-array name="month_7">
+        <item>07.09</item>
+        <item>07.11</item>
+        <item>07.13~07.19</item>
+        <item>07.18</item>
+        <item>07.25</item>
+    </string-array>
+
+    <string-array name="content_7">
+        <item>1학기 성적 확정</item>
+        <item>최종 학위논문 제출</item>
+        <item>계절학기 수업평가</item>
+        <item>계절학기 종강</item>
+        <item>계절학기 성적 확정</item>
+    </string-array>.
+
+    <string-array name="month_8">
+        <item>08.01~08.02</item>
+        <item>08.01~08.31</item>
+        <item>08.01~08.17</item>
+        <item>08.14</item>
+        <item>08.16~08.17</item>
+        <item>08.21~08.24</item>
+        <item>08.30</item>
+    </string-array>
+
+    <string-array name="content_8">
+        <item>2학기 예비수강 신청</item>
+        <item>휴.복학 신청</item>
+        <item>학위논문제출자격시험 신청</item>
+        <item>2학기 수강신청</item>
+        <item>2학기 수강신청</item>
+        <item>등록금 납부기간</item>
+        <item>학위수여식</item>
+    </string-array>
+
+    <string-array name="month_9">
+        <item>09.03</item>
+        <item>09.03~09.13</item>
+        <item>09.05~09.07</item>
+        <item>09.14</item>
+        <item>09.17~10.01</item>
+    </string-array>
+
+    <string-array name="content_9">
+        <item>2학기 개강</item>
+        <item>학위논문제출자격시험(전공시험)</item>
+        <item>2학기 수강신청 변경</item>
+        <item>외국어 시험</item>
+        <item>박사학위청구논문심사 신청</item>
+    </string-array>
+
+    <string-array name="month_10">
+        <item>10.12</item>
+        <item>10.15~10.29</item>
+        <item>10.31</item>
+    </string-array>
+
+    <string-array name="content_10">
+        <item>수업일수 1/3선</item>
+        <item>석사학위청구논문심사 신청</item>
+        <item>수업일수 1/2선</item>
+    </string-array>
+
+    <string-array name="month_11">
+        <item>11.02~11.02</item>
+        <item>11.13~11.15</item>
+        <item>11.22~11.23</item>
+        <item>11.22~11.28</item>
+    </string-array>
+
+    <string-array name="content_11">
+        <item>중간시험 종료일</item>
+        <item>계절학기 수강신청</item>
+        <item>면접평가(휴강)</item>
+        <item>계절학기 수강료 납부</item>
+    </string-array>
+
+    <string-array name="month_12">
+        <item>12.03~12.07</item>
+        <item>12.05</item>
+        <item>12.17~12.26</item>
+        <item>12.17~12.28</item>
+        <item>12.26</item>
+        <item>12.28</item>
+    </string-array>
+
+    <string-array name="content_12">
+        <item>전과지원서 접수</item>
+        <item>학위청구논문심사결과 보고</item>
+        <item>강의보충기간</item>
+        <item>2학기 수업평가</item>
+        <item>종강,2학기 기말시험 종료일</item>
+        <item>계절학기 개강(주5일 수업)</item>
+    </string-array>
+
+    <string-array name="month_13">
+        <item>01.02</item>
+        <item>01.02~02.06</item>
+        <item>01.09</item>
+        <item>01.10</item>
+        <item>01.17~01.22</item>
+        <item>01.18</item>
+        <item>01.24</item>
+        <item>01.28~01.29</item>
+    </string-array>
+
+    <string-array name="content_13">
+        <item>시무식</item>
+        <item>2학기 확정 전 성적 공개</item>
+        <item>최종 학위논문 제출</item>
+        <item>2학기 성적확정</item>
+        <item>계절학기 수업평가</item>
+        <item>계절학기 종강</item>
+        <item>계절학기 성적 확정</item>
+        <item>1학기 예비수강 신청</item>
+    </string-array>
+
+    <string-array name="month_14">
+        <item>02.21</item>
+        <item>02.27</item>
+    </string-array>
+
+    <string-array name="content_14">
+        <item>학위수여식</item>
+        <item>입학식</item>
+    </string-array>
+
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+
+
+
+</resources>
